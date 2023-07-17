@@ -2,8 +2,12 @@ import { Toaster } from "./components/ui/toaster";
 import MainLayout from "./layouts/MainLayout";
 
 function App() {
-  <Toaster />;
-  return <MainLayout />;
+  return (
+    <div>
+      <Toaster />
+      <MainLayout />
+    </div>
+  );
 }
 
 export default App;
