@@ -1,0 +1,110 @@
+[
+  {
+    "_id": 1,
+    "title": "Gitanjali (Song offering)",
+    "author": "Rabindranath Tagore",
+    "genre": "Poetry",
+    "publication_date": "1910",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 2,
+    "title": "Chokher Bali",
+    "author": "Rabindranath Tagore",
+    "genre": "Novel",
+    "publication_date": "1901",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 3,
+    "title": "Haimanti",
+    "author": "Rabindranath Tagore",
+    "genre": "Short Story",
+    "publication_date": "1914",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 4,
+    "title": "Phalguni",
+    "author": "Rabindranath Tagore",
+    "genre": "Drama",
+    "publication_date": "1916",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 5,
+    "title": "Japan Jatri",
+    "author": "Rabindranath Tagore",
+    "genre": "Travelogue",
+    "publication_date": "1919",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 6,
+    "title": "Shesher Kobita",
+    "author": "Rabindranath Tagore",
+    "genre": "Novel",
+    "publication_date": "1929",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 7,
+    "title": "Sanchita",
+    "author": "Kazi Nazrul Islam",
+    "genre": "Poetry",
+    "publication_date": "1925",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 8,
+    "title": "Kuhelika",
+    "author": "Kazi Nazrul Islam",
+    "genre": "Novel",
+    "publication_date": "1931",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 9,
+    "title": "Aleya",
+    "author": "Kazi Nazrul Islam",
+    "genre": "Drama",
+    "publication_date": "1931",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 10,
+    "title": "Bathar Daan",
+    "author": "Kazi Nazrul Islam",
+    "genre": "Short Story",
+    "publication_date": "1922",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 11,
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "publication_date": "1597",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  },
+  {
+    "_id": 12,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "publication_date": "1599",
+    "reviews": ["Review 1", "Review 2"],
+    "image": "https://pngimg.com/uploads/book/book_PNG2111.png"
+  }
+]
