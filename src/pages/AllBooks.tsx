@@ -16,7 +16,7 @@ export default function AllBooks() {
   }, []);
 
   return (
-    <div className="max-w-7xl mx-auto relative ">
+    <div className="max-w-7xl mx-auto relative">
       <div className="flex items-center justify-center  h-60 max-w-7xl mx-auto">
         <h1 className="text-xl font-bold">Search Book</h1>
         <Input className="ml-4" />
